@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **[Your Name]**
+# 👋 Hello, I'm **[Nick Westburg]**
 
 **AI Explorer | RAG & OSINT Enthusiast | Entrepreneurial Mindset | Lifelong Learner**
 
