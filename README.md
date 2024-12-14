@@ -45,7 +45,6 @@ I’m dedicated to leveraging AI to transform unstructured data, streamline work
 
 ## 📌 **Pinned Repositories**
 
-*(Choose projects that showcase your AI work, RAG experiments, OSINT exploration, and entrepreneurial flair.)*
 
 1. **RAG-Pipeline-Playground**  
    *A LangChain-powered environment for experimenting with retrieval-augmented generation workflows.*  
@@ -59,7 +58,7 @@ I’m dedicated to leveraging AI to transform unstructured data, streamline work
    *Advanced prompt templates and memory strategies for improving LLM performance.*  
    - **Focus**: Reducing hallucinations, enhancing reasoning capabilities, and building robust conversational flows.
 
-4. **Entrepreneurial-Frameworks** *(Optional)*  
+4. **Entrepreneurial-Frameworks** *  
    *Concepts, roadmaps, and business plans for AI-driven ventures.*  
    - **Focus**: Identifying niche markets, scaling solutions, and fostering cross-functional teams.
 
