@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **[Nick Westburg]**
+# 👋 Hello, I'm **Nick Westburg**
 
 **AI Explorer | RAG & OSINT Enthusiast | Entrepreneurial Mindset | Lifelong Learner**
 
