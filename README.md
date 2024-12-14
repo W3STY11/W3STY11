@@ -20,14 +20,13 @@ I’m dedicated to leveraging AI to transform unstructured data, streamline work
    - Integrating retrieval with generative models for context-rich, accurate responses.  
    - Measuring performance through metrics like MRR, MAP, NDCG, and beyond.
 
-2. **OSINT & Data Discovery**  
-   - 
+   
 
-3. **Prompt Engineering & Memory Optimization**  
+2. **Prompt Engineering & Memory Optimization**  
    - Crafting advanced prompts that reduce hallucinations, improve accuracy, and enable dynamic, context-aware workflows.  
    - Exploring memory strategies and data pipelines to enhance model responsiveness.
 
-4. **Entrepreneurial Projects**  
+3. **Entrepreneurial Projects**  
    - Brainstorming AI-driven concepts that solve real-world problems.  
    - Building frameworks for scalable solutions, market insights, and strategic growth.
 
