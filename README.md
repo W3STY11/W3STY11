@@ -17,7 +17,6 @@
 
 ## 🚀 AI Research & Development Engineer
 
-Transforming 5000+ AI conversations into actionable knowledge. Specializing in conversation mining, knowledge graphs, and ML infrastructure.
 
 ### 💡 Expertise
 
